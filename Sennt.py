@@ -24,7 +24,7 @@ vtense = [1, 2]
 vtensechoice = random.choice(vtense)
 
 if vtensechoice == 1:
-    pvtense = ["wanted ", "used ", "worked ", "called ", "tried ", "asked ", "needed ", "seemed ", "helped ", "played ", "moveed ", "lived ", "believed ", "happened ", "included ", "continued ", "changed ", "watched ", "followed ", "stopped "]
+    pvtense = ["wanted ", "used ", "worked ", "called ", "tried ", "asked ", "needed ", "seemed ", "helped ", "played ", "moved ", "lived ", "believed ", "happened ", "included ", "continued ", "changed ", "watched ", "followed ", "stopped "]
     prnt_pvtense = random.choice(pvtense)
     vtensechoice = prnt_pvtense
 
